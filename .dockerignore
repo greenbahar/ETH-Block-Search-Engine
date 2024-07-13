@@ -1,0 +1,5 @@
+# Ignore other common files that are not needed in the Docker image
+.git
+.gitignore
+build.sh
+run.sh

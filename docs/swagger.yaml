@@ -1,0 +1,8 @@
+basePath: /v1
+info:
+  contact: {}
+  description: API endpoints for Ethereum blockchain tracking
+  title: Ethereum Tracker API
+  version: "1.0"
+paths: {}
+swagger: "2.0"
